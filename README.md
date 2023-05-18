@@ -1,7 +1,7 @@
 # DockerRelay
 Chat relay to a Discord webhook from a Minecraft server chat.
 DockerRelay is a Fabric 1.18.2 Mod that relays your messages to a Discord Webhook from ingame, and has support for JukeAlert chat messages.
-Developed for CitadelPvP.
+Started development on 5/18/23 for CitadelPvP.
 
 
 | Name | Description |
